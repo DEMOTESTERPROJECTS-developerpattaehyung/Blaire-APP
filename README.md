@@ -108,11 +108,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👀 Acknowledgments
-
-* Inspired by visually impaired learners who believe math should be for **everyone**.
-* Thanks to open-source accessibility communities for guidance.
-
-```
-
 
